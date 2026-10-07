@@ -1,0 +1,9 @@
+# Development & Database Scripts
+*.sql
+BANCO.txt
+check-teacher.js
+diagnose.js
+list-policies.js
+seed.js
+test-insert.js
+upload-pdf.js
